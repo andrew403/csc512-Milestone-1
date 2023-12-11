@@ -1,6 +1,6 @@
 # csc512-Milestone-1
 
-# Introduction
+## Introduction
 This project is an out-of-tree customized LLVM pass that aims to automatically recognize "seminal input features" of the running time of a program. It is primarily divided into two parts, **BranchPointerTrace** and **FeatureDetection**. Since the project depends on the LLVM-project, you would have to set path of llvm before you start running this program.
 ```bash
 $ export LLVM_DIR = llvm/build/path/lib/cmake/llvm
