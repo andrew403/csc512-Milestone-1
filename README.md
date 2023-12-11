@@ -17,3 +17,4 @@ We then proceeded to clone the LLVM GitHub repository onto our computer and atte
 ### Next Steps
 Our immediate focus is on successfully building and running the LLVM code. Once this milestone is achieved, we plan to delve into understanding the structure of LLVM and thoroughly explore the codebase.
 
+Please see the [google doc](https://docs.google.com/document/d/1iE_LOlKSIuWxxjMnYPfdsQLz-UYNeKn1QI3e5aGW6bU/edit?usp=sharing) for the full content. 
